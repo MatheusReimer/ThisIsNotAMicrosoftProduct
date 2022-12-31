@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ThisIsNotAMicrosoftProduct/static/css/main.334f68c1.css",
+    "main.css": "/ThisIsNotAMicrosoftProduct/static/css/main.aa935779.css",
     "main.js": "/ThisIsNotAMicrosoftProduct/static/js/main.c7efc809.js",
     "static/js/787.28cb0dcd.chunk.js": "/ThisIsNotAMicrosoftProduct/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/ThisIsNotAMicrosoftProduct/index.html",
-    "main.334f68c1.css.map": "/ThisIsNotAMicrosoftProduct/static/css/main.334f68c1.css.map",
+    "main.aa935779.css.map": "/ThisIsNotAMicrosoftProduct/static/css/main.aa935779.css.map",
     "main.c7efc809.js.map": "/ThisIsNotAMicrosoftProduct/static/js/main.c7efc809.js.map",
     "787.28cb0dcd.chunk.js.map": "/ThisIsNotAMicrosoftProduct/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.334f68c1.css",
+    "static/css/main.aa935779.css",
     "static/js/main.c7efc809.js"
   ]
 }
