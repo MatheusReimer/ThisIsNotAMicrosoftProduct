@@ -4,7 +4,7 @@ function Header() {
   return (
     <header className='flex pt-2 sticky h-[6vh]'>
         <div className='w-[30vw] '>
-            <img src="/images/blacklogo.png" alt="" className='w-[25px] h-[25px] mr-4 ml-4 cursor-pointer'/>
+            <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/windows-icon.png" alt="" className='w-[25px] h-[25px] mr-4 ml-4 cursor-pointer'/>
             </div>
         <div className='w-[25vw] justify-end flex'>
 

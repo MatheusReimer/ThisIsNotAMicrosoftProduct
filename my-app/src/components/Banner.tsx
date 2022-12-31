@@ -18,7 +18,7 @@ function Banner() {
             </div>
         </div>
         <div className='p-4'>
-            <img src="/images/opp.png" alt="" className='lg:w-[500px] md:w-[400px] sm:w-[400px] w-[400px]' />
+            <img src="https://cdn.shopify.com/s/files/1/0484/7979/7401/products/Microsoft_Office_2021_Professional_Plus_32_64_Bit_Download_500x.webp?v=1655723576" alt="" className='lg:w-[500px] md:w-[400px] sm:w-[400px] w-[400px]' />
         </div>
     </div>
   )

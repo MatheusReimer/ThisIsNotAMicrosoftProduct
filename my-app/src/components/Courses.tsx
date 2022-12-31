@@ -28,8 +28,8 @@ function Courses() {
         </div>
         <div className='mt-8'>
       
-        <Tab.Group  >
-            <Tab.List className="flex justify-center"  >
+        <Tab.Group >
+            <Tab.List className="flex justify-center"    >
               {categories.map((category) => (
                 <Tab
                   
