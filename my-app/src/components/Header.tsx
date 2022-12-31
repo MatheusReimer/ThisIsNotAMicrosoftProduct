@@ -3,7 +3,7 @@ import { Bars3BottomRightIcon } from '@heroicons/react/24/solid'
 function Header() {
   return (
     <header className='flex pt-2 sticky h-[6vh]'>
-        <div className='w-[30vw] '>
+        <div className='w-[30vw] md:w-[45vw]'>
             <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/windows-icon.png" alt="" className='w-[25px] h-[25px] mr-4 ml-4 cursor-pointer'/>
             </div>
         <div className='w-[25vw] justify-end flex'>
@@ -12,11 +12,10 @@ function Header() {
             <a className='linksLeft'>Cases</a>
             <a className='linksLeft'>Microsoft University</a>
         </div>
-        <div className='flex justify-end w-[45vw]'>
+        <div className='flex justify-end w-[45vw] mr-4'>
             <a className='linksRight'>Login</a>
             <h1 className='pr-3 pl-3 pt-1 font-poppins invisible lg:visible text-gray-600'>|</h1>
             <a className='linksRight'>Register</a>
-            <Bars3BottomRightIcon className='w-[55px] h-[55px] visible cursor-pointer lg:invisible pr-4'/>
         </div>
         
     </header>

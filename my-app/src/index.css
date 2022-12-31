@@ -18,10 +18,10 @@ html {
 
 @layer components{
   .linksRight{
-      @apply pr-3 pl-3 pt-1  font-poppins invisible lg:visible text-gray-600 hover:text-gray-900 transition duration-300 cursor-pointer;
+      @apply pr-3 pl-3 pt-1  font-poppins invisible md:visible text-gray-600 hover:text-gray-900 transition duration-300 cursor-pointer;
   }
   .linksLeft{
-    @apply pr-3 pl-3 pt-1 font-poppins invisible lg:visible text-gray-600 hover:text-gray-900 transition duration-300 cursor-pointer;
+    @apply pr-3 pl-3 pt-1 font-poppins invisible md:visible text-gray-600 hover:text-gray-900 transition duration-300 cursor-pointer;
   }
   .borderGradient {
     text-align: center;

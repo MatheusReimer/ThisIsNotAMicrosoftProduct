@@ -4,6 +4,7 @@ import categories from '../utils/Category'
 import courses from "../utils/courses.json"
 import { Course } from '../types'
 import Product from './Product'
+import { ArrowRightIcon } from '@heroicons/react/24/solid'
 
 
 
@@ -67,7 +68,12 @@ function Courses() {
             
        </Tab.Group>
         </div>
-        
+        <div className='w-screen justify-center items-center flex visible md:invisible '>
+          <div className=' flex  justify-evenly   bg-gradient-to-r from-orange-500 to-pink-500 w-[200px] rounded-full text-center mb-5 font-semibold text-white cursor-pointer'>
+            <h1>Learn More</h1>
+          </div>
+        </div>
+
     </section>
   )
 }
