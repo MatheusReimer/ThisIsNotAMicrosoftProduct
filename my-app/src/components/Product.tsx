@@ -12,8 +12,8 @@ function Product({courses}:ListOfCourses) {
             <h1 className='text-2xl font-thin place-self-center'>{course.title}</h1>
             <img src={course.thumb} alt={course.description} className=" h-[200px] object-contain place-self-center"></img>
             <div className='flex justify-between'>
-              <div>
-                <h2 className=' first-letter:capitalize place-self-center text-lg font-extralight'>{course.description}</h2>
+              <div className='w-[80%]'>
+                <h2 className=' first-letter:capitalize place-self-center  font-extralight'>{course.description}</h2>
                 <h2 className=' font-extralight'>{course.price}</h2>  
               </div>
               
