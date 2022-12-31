@@ -22,14 +22,14 @@ function Courses() {
   return (
 
     
-    <section>
-        <div className='justify-center flex text-4xl font-bold text-white'>
+    <section className=''>
+        <div className='justify-center flex text-4xl font-bold text-white w-full'>
             <h1 className='mt-5'>All Courses</h1>
         </div>
         <div className='mt-8'>
       
         <Tab.Group >
-            <Tab.List className="flex justify-center"    >
+            <Tab.List className="flex justify-center   "    >
               {categories.map((category) => (
                 <Tab
                   
