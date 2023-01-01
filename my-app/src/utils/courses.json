@@ -8,49 +8,49 @@
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Jorge Benjor",
         "title":"Outlook",
         "price":"$5",
         "category":1
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Richard Tom",
         "title":"Microsoft Excel",
         "price":"$7",
         "category":1
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/commons/0/04/Microsoft_Office_Yammer_%282018%E2%80%93present%29.svg",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Tim Housten",
         "title":"Yammer",
         "price":"$5",
         "category":1
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Tina Jefferson",
         "title":"Power Point",
         "price":"$3",
         "category":1
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/commons/6/64/Microsoft_Office_Visio_%282019%29.svg",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Ana Harrington",
         "title":"Visio ",
         "price":"$5",
         "category":1
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Mark Turing",
         "title":"Power BI",
         "price":"$13",
         "category":1
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Gina Wallberg",
         "title":"Microsoft Teams",
         "price":"$1",
         "category":1
@@ -58,84 +58,84 @@
 
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/commons/0/05/Windows_10_Logo.svg",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Alan Goty",
         "title":"Windows API",
         "price":"$15",
         "category":2
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Xbox_Logo.svg",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Anderson Scott",
         "title":"Xbox Development Kit",
         "price":"$25",
         "category":2
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Jerry Richard",
         "title":"Microsoft Azure",
         "price":"$20",
         "category":2
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Pamela Jefferson",
         "title":"Github",
         "price":"$10",
         "category":2
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Nicole Davis",
         "title":"Typescript",
         "price":"$30",
         "category":2
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Scott Dart",
         "title":"Visual Studio",
         "price":"$10",
         "category":2
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Jimmy Turner",
         "title":"Visual Studio Code",
         "price":"$10",
         "category":2
     },
     {
         "thumb":"http://store-images.s-microsoft.com/image/apps.52120.9007199266246359.c2470d6e-f701-4792-9d31-01ef62cb149c.655863a9-cd13-44e1-a050-1c35d85ad0b2",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Nicoly Scott",
         "title":"3D Builder",
         "price":"$10",
         "category":3
     },
     {
         "thumb":"http://cdn.onlinewebfonts.com/svg/img_476264.png",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Matt Zurk",
         "title":"Holo Studio",
         "price":"$5",
         "category":3
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Havok_logo.svg/1200px-Havok_logo.svg.png",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Emma Olivia",
         "title":"Havok",
         "price":"$10",
         "category":3
     },
     {
         "thumb":"https://www.simplygon.com/images/logos/logo-long-white@2x.webp",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Isabella Turn",
         "title":"Simplygon",
         "price":"$14",
         "category":3
     },
     {
         "thumb":"https://blog.sandro-pereira.com/wp-content/uploads/2019/06/BizTalkServer2020-linhas-01.png",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Sophia Burns",
         "title":"Biz Talk Server",
         "price":"$10",
         "category":4
@@ -149,14 +149,14 @@
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/1200px-Microsoft_SQL_Server_Logo.svg.png",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Madison New",
         "title":"SQL Server",
         "price":"$10",
         "category":4
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/de/thumb/e/e3/Microsoft_System_Center_Logo.svg/2560px-Microsoft_System_Center_Logo.svg.png",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Sara George",
         "title":"System Center",
         "price":"$5",
         "category":4
@@ -170,28 +170,28 @@
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/MS-DOS_logo_outlined.svg/804px-MS-DOS_logo_outlined.svg.png",
-        "description":"Course by: Thomas New",
+        "description":"Course by: William Jones",
         "title":"MS-DOS",
         "price":"$3",
         "category":5
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_icon.svg/480px-Microsoft_icon.svg.png",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Liam Benjamin",
         "title":"Windows",
         "price":"$10",
         "category":5
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Windows_NT_logo.svg/2560px-Windows_NT_logo.svg.png",
-        "description":"Course by: Thomas New",
+        "description":"Course by: James Oliver",
         "title":"Windows NT",
         "price":"$20",
         "category":5
     },
     {
         "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Os2logo.svg/1024px-Os2logo.svg.png",
-        "description":"Course by: Thomas New",
+        "description":"Course by: Gavin Hunter",
         "title":"OS/2",
         "price":"$11",
         "category":5
