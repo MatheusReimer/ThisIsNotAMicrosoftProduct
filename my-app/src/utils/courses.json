@@ -1,200 +1,244 @@
 [
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg",
-        "description":"Course by: Thomas New",
-        "title":"Microsoft Access",
-        "price":"$5",
-        "category":1
+        "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/2560px-Spotify_logo_with_text.svg.png",
+        "description":"Spotify API Node.js",
+        "title":"Spotify API",
+        "price":"On Jun 25, 2021",
+        "category":2,
+        "link":"https://github.com/MatheusReimer/SpotifyAPINode"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg",
-        "description":"Course by: Jorge Benjor",
-        "title":"Outlook",
-        "price":"$5",
-        "category":1
+        "thumb":"https://www.svgrepo.com/show/353655/discord-icon.svg",
+        "description":"Discord Bot Python",
+        "title":"Discord Bot",
+        "price":"On Jul 2, 2021",
+        "category":2,
+        "link":"https://github.com/MatheusReimer/SpotifyAPINode"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg",
-        "description":"Course by: Richard Tom",
-        "title":"Microsoft Excel",
-        "price":"$7",
-        "category":1
+        "thumb":"https://www.svgrepo.com/show/342249/stackoverflow.svg",
+        "description":"Stacks With C",
+        "title":"Working with Stacks",
+        "price":"On Jul 2, 2021",
+        "category":1,
+        "link":"https://github.com/MatheusReimer/workingwithStacks"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/0/04/Microsoft_Office_Yammer_%282018%E2%80%93present%29.svg",
-        "description":"Course by: Tim Housten",
-        "title":"Yammer",
-        "price":"$5",
-        "category":1
+        "thumb":"http://cdn.onlinewebfonts.com/svg/img_206962.png",
+        "description":"Queues with C++",
+        "title":"Working with Queues",
+        "price":"On Jul 2, 2021",
+        "category":1,
+        "link":"https://github.com/MatheusReimer/stacksAndqueues"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg",
-        "description":"Course by: Tina Jefferson",
-        "title":"Power Point",
-        "price":"$3",
-        "category":1
+        "thumb":"https://scrapfly.io/blog/content/images/web-scraping-with-selenium-and-python_banner_light.svg",
+        "description":"Webscraping with Python",
+        "title":"Webscraping",
+        "price":"On Jul 10, 2021",
+        "category":2,
+        "link":"https://github.com/MatheusReimer/WebScrappingPython"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/6/64/Microsoft_Office_Visio_%282019%29.svg",
-        "description":"Course by: Ana Harrington",
-        "title":"Visio ",
-        "price":"$5",
-        "category":1
+        "thumb":"https://static.thenounproject.com/png/3180484-200.png",
+        "description":"Assembly Project(MIPS)",
+        "title":"Assembly Project",
+        "price":"On Jul 10, 2021",
+        "category":1,
+        "link":"https://github.com/MatheusReimer/AssemblyProject"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg",
-        "description":"Course by: Mark Turing",
-        "title":"Power BI",
-        "price":"$13",
-        "category":1
+        "thumb":"https://www.svgrepo.com/show/287386/hash.svg",
+        "description":"Hashing with C++",
+        "title":"Hash Project",
+        "price":"On Jul 10, 2021",
+        "category":1,
+        "link":"https://github.com/MatheusReimer/HashingWithCPP"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg",
-        "description":"Course by: Gina Wallberg",
-        "title":"Microsoft Teams",
-        "price":"$1",
-        "category":1
-    },
-
-    {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/0/05/Windows_10_Logo.svg",
-        "description":"Course by: Alan Goty",
-        "title":"Windows API",
-        "price":"$15",
-        "category":2
+        "thumb":"https://www.svgrepo.com/show/76807/password.svg",
+        "description":"Password Generator w/ C#",
+        "title":"Password Generator",
+        "price":"On Jul 10, 2021",
+        "category":2,
+        "link":"https://github.com/MatheusReimer/PasswordGeneratorCsharp"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Xbox_Logo.svg",
-        "description":"Course by: Anderson Scott",
-        "title":"Xbox Development Kit",
-        "price":"$25",
-        "category":2
+        "thumb":"https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg",
+        "description":"C# Bootcamp at DIO",
+        "title":"C# Bootcamp",
+        "price":"On Jul 23, 2021",
+        "category":2,
+        "link":"https://github.com/MatheusReimer/everisCsharpBootcamp"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg",
-        "description":"Course by: Jerry Richard",
-        "title":"Microsoft Azure",
-        "price":"$20",
-        "category":2
+        "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bank_account_-_The_Noun_Project.svg/1024px-Bank_account_-_The_Noun_Project.svg.png",
+        "description":"C# Bank APP",
+        "title":"Bank APP",
+        "price":"On Jul 27, 2021",
+        "category":2,
+        "link":"https://github.com/MatheusReimer/DotnetSimpleBankAPP"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
-        "description":"Course by: Pamela Jefferson",
-        "title":"Github",
-        "price":"$10",
-        "category":2
+        "thumb":"http://cdn.onlinewebfonts.com/svg/img_277302.png",
+        "description":"Java QA Project",
+        "title":"QA Project",
+        "price":"On Jul 27, 2021",
+        "category":2,
+        "link":"https://github.com/MatheusReimer/EverisQAFinalProject"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg",
-        "description":"Course by: Nicole Davis",
-        "title":"Typescript",
-        "price":"$30",
-        "category":2
+        "thumb":"https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg",
+        "description":"Java Bootcamp",
+        "title":"QA Project",
+        "price":"On Aug 2, 2021",
+        "category":2,
+        "link":"https://github.com/MatheusReimer/EverisApiJavaNewTalents"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg",
-        "description":"Course by: Scott Dart",
-        "title":"Visual Studio",
-        "price":"$10",
-        "category":2
+        "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png",
+        "description":"REST API with Flask",
+        "title":"Flask API",
+        "price":"On Aug 6, 2021",
+        "category":2,
+        "link":"https://github.com/MatheusReimer/RestApiPythonFlask"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg",
-        "description":"Course by: Jimmy Turner",
-        "title":"Visual Studio Code",
-        "price":"$10",
-        "category":2
+        "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png",
+        "description":"Selenium Testing",
+        "title":"Testing with Selenium",
+        "price":"On Aug 8, 2021",
+        "category":2,
+        "link":"https://github.com/MatheusReimer/Selenium-PythonUnitTesting"
     },
     {
-        "thumb":"http://store-images.s-microsoft.com/image/apps.52120.9007199266246359.c2470d6e-f701-4792-9d31-01ef62cb149c.655863a9-cd13-44e1-a050-1c35d85ad0b2",
-        "description":"Course by: Nicoly Scott",
-        "title":"3D Builder",
-        "price":"$10",
-        "category":3
+        "thumb":"http://cdn.onlinewebfonts.com/svg/img_290611.png",
+        "description":"Django Full Website",
+        "title":"Django Realstate Website",
+        "price":"On Aug 9, 2021",
+        "category":2,
+        "link":"https://github.com/MatheusReimer/Django-React-Realstate"
     },
     {
-        "thumb":"http://cdn.onlinewebfonts.com/svg/img_476264.png",
-        "description":"Course by: Matt Zurk",
-        "title":"Holo Studio",
-        "price":"$5",
-        "category":3
+        "thumb":"http://cdn.onlinewebfonts.com/svg/img_546362.png",
+        "description":"Node.js Full Website",
+        "title":"Personal Trainer Website",
+        "price":"On Aug 13, 2021",
+        "category":2,
+        "link":"https://github.com/MatheusReimer/PersonalTrainerSite"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Havok_logo.svg/1200px-Havok_logo.svg.png",
-        "description":"Course by: Emma Olivia",
-        "title":"Havok",
-        "price":"$10",
-        "category":3
+        "thumb":"https://icon-library.com/images/processing-icon/processing-icon-11.jpg",
+        "description":"Image Processing",
+        "title":"Image Processing with Python",
+        "price":"On Aug 29, 2021",
+        "category":1,
+        "link":"https://github.com/MatheusReimer/ImageProcessingWithPython"
     },
     {
-        "thumb":"https://www.simplygon.com/images/logos/logo-long-white@2x.webp",
-        "description":"Course by: Isabella Turn",
-        "title":"Simplygon",
-        "price":"$14",
-        "category":3
+        "thumb":"https://cdn-icons-png.flaticon.com/512/982/982953.png",
+        "description":"Drowsiness Detection with Python",
+        "title":"Drowsiness Detection",
+        "price":"On Nov 20, 2021",
+        "category":1,
+        "link":"https://github.com/MatheusReimer/drowsinessDetection"
     },
     {
-        "thumb":"https://blog.sandro-pereira.com/wp-content/uploads/2019/06/BizTalkServer2020-linhas-01.png",
-        "description":"Course by: Sophia Burns",
-        "title":"Biz Talk Server",
-        "price":"$10",
-        "category":4
+        "thumb":"https://www.svgrepo.com/show/156931/blogger.svg",
+        "description":"Blog Website with Node",
+        "title":"Blog Website",
+        "price":"On Nov 17, 2021",
+        "category":2,
+        "link":"https://github.com/MatheusReimer/drowsinessDetection"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Microsoft_Exchange_%282019-present%29.svg/2346px-Microsoft_Exchange_%282019-present%29.svg.png",
-        "description":"Course by: Thomas New",
-        "title":"Exchange Server",
-        "price":"$12",
-        "category":4
+        "thumb":"https://www.svgrepo.com/show/399592/nutrition.svg",
+        "description":"Nutrition Website",
+        "title":"Nutrition Website",
+        "price":"On Mar 3, 2022",
+        "category":2,
+        "link":"https://github.com/MatheusReimer/ReactJSNutrionLandingPage"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/1200px-Microsoft_SQL_Server_Logo.svg.png",
-        "description":"Course by: Madison New",
-        "title":"SQL Server",
-        "price":"$10",
-        "category":4
+        "thumb":"https://uxwing.com/wp-content/themes/uxwing/download/business-professional-services/bar-chart-icon.png",
+        "description":"Graphs project with python",
+        "title":"Graphs Project",
+        "price":"On Mar 3, 2022",
+        "category":1,
+        "link":"https://github.com/MatheusReimer/Grafos-M1"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/de/thumb/e/e3/Microsoft_System_Center_Logo.svg/2560px-Microsoft_System_Center_Logo.svg.png",
-        "description":"Course by: Sara George",
-        "title":"System Center",
-        "price":"$5",
-        "category":4
+        "thumb":"https://www.svgrepo.com/download/41324/cube.svg",
+        "description":"Rotating Cube OPENGL",
+        "title":"Graphical Computation",
+        "price":"On Apr 2, 2022",
+        "category":1,
+        "link":"https://github.com/MatheusReimer/RotatitingCube3D"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg.png",
-        "description":"Course by: Thomas New",
-        "title":"Server SharePoint",
-        "price":"$5",
-        "category":4
+        "thumb":"https://upload.wikimedia.org/wikipedia/commons/d/d2/Minimum_spanning_tree.svg",
+        "description":"Minimal Spanning Tree",
+        "title":"Minimal Spanning Tree",
+        "price":"On Apr 11, 2022",
+        "category":1,
+        "link":"https://github.com/MatheusReimer/MinimalSpanningTree"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/MS-DOS_logo_outlined.svg/804px-MS-DOS_logo_outlined.svg.png",
-        "description":"Course by: William Jones",
-        "title":"MS-DOS",
-        "price":"$3",
-        "category":5
+        "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/OpenGL_logo.svg/512px-OpenGL_logo.svg.png?20210504152125",
+        "description":"Texture Lighting Shadow",
+        "title":"OPENGL Project",
+        "price":"On Jun 11, 2022",
+        "category":1,
+        "link":"https://github.com/MatheusReimer/openGL-LIGHT-TEX"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_icon.svg/480px-Microsoft_icon.svg.png",
-        "description":"Course by: Liam Benjamin",
-        "title":"Windows",
-        "price":"$10",
-        "category":5
+        "thumb":"https://cdn-icons-png.flaticon.com/512/6231/6231036.png",
+        "description":"Full Compiler Creation",
+        "title":"Java Compiler",
+        "price":"On Jun 28, 2022",
+        "category":1,
+        "link":"https://github.com/MatheusReimer/openGL-LIGHT-TEX"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Windows_NT_logo.svg/2560px-Windows_NT_logo.svg.png",
-        "description":"Course by: James Oliver",
-        "title":"Windows NT",
-        "price":"$20",
-        "category":5
+        "thumb":"http://cdn.onlinewebfonts.com/svg/img_493435.png",
+        "description":"Personal Trainer APP",
+        "title":"React Native APP",
+        "price":"On Aug 27, 2022",
+        "category":3,
+        "link":"https://github.com/MatheusReimer/ReactNative-MMP"
     },
     {
-        "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Os2logo.svg/1024px-Os2logo.svg.png",
-        "description":"Course by: Gavin Hunter",
-        "title":"OS/2",
-        "price":"$11",
-        "category":5
+        "thumb":"https://cdn.worldvectorlogo.com/logos/guess-logo.svg",
+        "description":"Guess the song APP",
+        "title":"Flutter APP",
+        "price":"On Aug 29, 2022",
+        "category":3,
+        "link":"https://github.com/MatheusReimer/Flutter-App"
+    },
+    {
+        "thumb":"https://svgsilh.com/svg/160112.svg",
+        "description":"Another Song App",
+        "title":"Flutter Song App",
+        "price":"On Aug 29, 2022",
+        "category":3,
+        "link":"https://github.com/MatheusReimer/Flutter---SongApp"
+    },
+    {
+        "thumb":"https://www.logo.wine/a/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.svg",
+        "description":"Kotlin MVVM",
+        "title":"Kotlin MVVM",
+        "price":"On Nov 3, 2022",
+        "category":3,
+        "link":"https://github.com/MatheusReimer/Kotlin-MVVM"
+    },
+    {
+        "thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/2560px-Netflix_2015_logo.svg.png",
+        "description":"Netflix Clone Website",
+        "title":"Netflix Clone ",
+        "price":"On Nov 13, 2022",
+        "category":2,
+        "link":"https://github.com/MatheusReimer/Kotlin-MVVM"
     }
+
     
 ]

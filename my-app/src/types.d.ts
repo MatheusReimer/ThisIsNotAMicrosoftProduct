@@ -3,7 +3,8 @@ export type Course =  {
     description:string,
     title:string,
     price:string,
-    category:number
+    category:number,
+    link:string
   }
 
 export interface ListOfCourses {

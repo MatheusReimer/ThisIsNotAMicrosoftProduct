@@ -25,7 +25,7 @@ function Courses() {
     
     <section className=''>
         <div className='justify-center flex text-4xl font-bold text-white w-full'>
-            <h1 className='mt-5'>All Courses</h1>
+            <h1 className='mt-5'>Recent Projects</h1>
         </div>
         <div className='mt-8'>
       
@@ -69,7 +69,7 @@ function Courses() {
        </Tab.Group>
         </div>
         <div className='w-screen justify-center items-center flex visible md:invisible '>
-          <div className=' flex  justify-evenly   bg-gradient-to-r from-orange-500 to-pink-500 w-[200px] rounded-full text-center mb-5 font-semibold text-white cursor-pointer'>
+          <div className=' flex  justify-evenly   bg-gradient-to-r from-[#07b92e] to-[#32FF0A] w-[200px] rounded-full text-center mb-5 font-semibold text-white cursor-pointer'>
             <h1>Learn More</h1>
           </div>
         </div>

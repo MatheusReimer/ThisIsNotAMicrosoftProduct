@@ -26,7 +26,7 @@ html {
   .borderGradient {
     text-align: center;
     padding-bottom: 5px;
-    background: linear-gradient(to right, #ff4800, #f700ff) left bottom
+    background: linear-gradient(to right, #07b92e, #32FF0A) left bottom
       no-repeat;
     background-size: 100% 2px;
   }

@@ -1,21 +1,20 @@
 import { Bars3BottomRightIcon } from '@heroicons/react/24/solid'
+import logo from "../blacklogo.png"
 
 function Header() {
   return (
     <header className='flex pt-2 sticky h-[6vh]'>
         <div className='w-[30vw] md:w-[45vw]'>
-            <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/windows-icon.png" alt="" className='w-[25px] h-[25px] mr-4 ml-4 cursor-pointer'/>
+            <img src={logo} alt="" className='w-[50] h-[50px] mr-4 ml-4 cursor-pointer'/>
             </div>
-        <div className='w-[25vw] justify-end flex'>
+        <div className='w-[15vw] justify-end flex'>
 
-            <a className='linksLeft'>Plans</a>
-            <a className='linksLeft'>Cases</a>
-            <a className='linksLeft'>Microsoft University</a>
+            <a className='linksLeft'>Gmail</a>
+            <a className='linksLeft'>Github</a>
+            <a className='linksLeft'>Linkedin</a>
         </div>
         <div className='flex justify-end w-[45vw] mr-4'>
-            <a className='linksRight'>Login</a>
-            <h1 className='pr-3 pl-3 pt-1 font-poppins invisible lg:visible text-gray-600'>|</h1>
-            <a className='linksRight'>Register</a>
+            <a className='linksRight'>Contact-me</a>
         </div>
         
     </header>

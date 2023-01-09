@@ -1,7 +1,7 @@
-import { ShoppingCartIcon } from '@heroicons/react/24/outline';
+import { LinkIcon } from '@heroicons/react/24/outline';
 import React from 'react'
 import { Course, ListOfCourses } from '../types';
-import { Grid } from '@mui/material';
+import { Grid, Link } from '@mui/material';
 
 
 function Product({courses}:ListOfCourses) {
@@ -17,8 +17,8 @@ function Product({courses}:ListOfCourses) {
                 <h2 className=' font-extralight'>{course.price}</h2>  
               </div>
               
-              <div className='bg-gradient-to-r from-orange-500 to-pink-500 rounded-full w-12 h-12 cursor-pointer items-center justify-center flex'>
-                <ShoppingCartIcon className='h-6 w-6'></ShoppingCartIcon>
+              <div className='bg-gradient-to-r from-[#07b92e] to-[#32FF0A] rounded-full w-12 h-12 cursor-pointer items-center justify-center flex'>
+                <LinkIcon className='h-6 w-6'><a href={course.link}></a></LinkIcon>
               </div>
             </div>
 
